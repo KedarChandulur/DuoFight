@@ -1,5 +1,5 @@
 # DuoFight
-Another mini game, Only a small demo level is available.
+This game doesn't have multiple levels, its just a demo for duo fight game in 2d(Unity C#).
 
 ## In Game Screen Shots
 ![image](https://user-images.githubusercontent.com/47148900/149489503-9f111e13-bd66-4d5b-89cc-5a0ad209142f.png)
