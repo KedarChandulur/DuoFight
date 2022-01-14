@@ -1,5 +1,5 @@
 # DuoFight
-Another mini game.
+Another mini game, Only a small demo level is available.
 
 ## In Game Screen Shots
 ![image](https://user-images.githubusercontent.com/47148900/149489503-9f111e13-bd66-4d5b-89cc-5a0ad209142f.png)
